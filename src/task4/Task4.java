@@ -76,9 +76,9 @@ public class Task4
             } else if (ans.toLowerCase().contains("c")) {
                 ll.clear();
             } else if (ans.toLowerCase().contains("z")) {
-                System.out.println(ll.size());;
+                System.out.println(ll.size());
             } else if (ans.toLowerCase().contains("xxx")) {
-                System.out.println("xxx");;
+                System.out.println("xxx");
             }
         }
 
